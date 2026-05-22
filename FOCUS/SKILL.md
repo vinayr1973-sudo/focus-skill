@@ -1,4 +1,4 @@
-
+----
 name: focus
 description: FOCUS protocol — four mandatory gates (THINK, SIMPLIFY, SURGICAL, STAY-ON-GOAL) that prevent fast/wrong AI answers on high-stakes work. Activate when the user invokes `/focus`, says "apply FOCUS", or when working on production code, real money, architecture decisions, recurring bugs, or anything where wrong answers cost real money/safety/legal/infra. Also activate the moment you feel confident the answer is obvious — that is exactly when mistakes happen. Source: github.com/vinayr1973-sudo/focus-skill (MIT, by Vinay R).
 ---
